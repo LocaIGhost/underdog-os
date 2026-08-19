@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "underdog-os",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a0ceb0d2-d4dd-4402-b1a8-2dee9200f1c7",
+			"database_name": "my-binding"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
